@@ -1,0 +1,133 @@
+Environment variables:
+  - =E:=E:\sonar-runner-2.4
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANT_HOME=E:\Devops Traning Build Operation\BUILD Operations\apache-ant-1.9.4-bin\apache-ant-1.9.4
+  - APPDATA=C:\Users\Admin\AppData\Roaming
+  - COMPUTERNAME=ADMIN-PC
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - FP_NO_HOST_CHECK=NO
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Admin
+  - JAVA_EXEC="C:\Program Files\Java\jdk1.8.0_171\bin\java.exe"
+  - JAVA_HOME=C:\Program Files\Java\jdk1.8.0_171
+  - LOCALAPPDATA=C:\Users\Admin\AppData\Local
+  - LOGONSERVER=\\ADMIN-PC
+  - MAVEN_HOME=E:\Maven\apache-maven-3.3.3
+  - NUMBER_OF_PROCESSORS=2
+  - OS=Windows_NT
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=170a
+  - PROJECT_HOME=E:\sonar-runner-2.4
+  - PROMPT=$P$G
+  - PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\CollabNet\Subversion Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\HashiCorp\Vagrant\bin;C:\Program Files\VisualSVN Server\bin;C:\Program Files\TortoiseSVN\bin;E:\Devops Traning Build Operation\BUILD Operations\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;C:\Program Files\Java\jdk1.8.0_171\bin;E:\Maven\apache-maven-3.3.3\bin;E:\sonar-runner-2.4\bin
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_RUNNER_HOME=E:\sonar-runner-2.4
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\Admin\AppData\Local\Temp
+  - TMP=C:\Users\Admin\AppData\Local\Temp
+  - USERDOMAIN=Admin-PC
+  - USERNAME=Admin
+  - USERPROFILE=C:\Users\Admin
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - VISUALSVN_SERVER=C:\Program Files\VisualSVN Server\
+  - windir=C:\Windows
+  - windows_tracing_flags=3
+  - windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+System properties:
+  - ROOT_LOGGER_LEVEL=DEBUG
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=E:\sonar-runner-2.4\lib\sonar-runner-dist-2.4.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_171\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=C:\Program Files\Java\jdk1.8.0_171\jre
+  - java.io.tmpdir=C:\Users\Admin\AppData\Local\Temp\
+  - java.library.path=C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\CollabNet\Subversion Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\HashiCorp\Vagrant\bin;C:\Program Files\VisualSVN Server\bin;C:\Program Files\TortoiseSVN\bin;E:\Devops Traning Build Operation\BUILD Operations\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;C:\Program Files\Java\jdk1.8.0_171\bin;E:\Maven\apache-maven-3.3.3\bin;E:\sonar-runner-2.4\bin;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_171-b11
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_171
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.171-b11
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 7
+  - os.version=6.1
+  - path.separator=;
+  - project.home=E:\sonar-runner-2.4
+  - runner.home=E:\sonar-runner-2.4
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\classes
+  - sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_171\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonar.runner.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=Service Pack 1
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=IN
+  - user.dir=E:\sonar-runner-2.4
+  - user.home=C:\Users\Admin
+  - user.language=en
+  - user.name=Admin
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - Python 1.7.0.1195 (python)
+  - SonarJava 4.9.0.9858 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.2.885 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.4.0.522 (scmsvn)
+  - SonarJS 3.0.0.4962 (javascript)
+Global properties:
+  - sonar.core.id=AVz4NupDE79zR_4DWmgm
+  - sonar.core.startTime=2018-12-16T12:24:59+0530
+Settings for module: my:SONARPROJECT
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=E:\sonar-runner-2.4\.
+  - sonar.projectKey=my:SONARPROJECT
+  - sonar.projectName=MySONAR
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=E:\sonar-runner-2.4\.\.sonar
